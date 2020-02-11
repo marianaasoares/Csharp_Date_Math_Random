@@ -1,0 +1,11 @@
+C:\Users\mariana.dsantos\source\repos\ConsoleApp1\DataFormato\bin\Debug\netcoreapp3.0\DataFormato.exe
+C:\Users\mariana.dsantos\source\repos\ConsoleApp1\DataFormato\bin\Debug\netcoreapp3.0\DataFormato.deps.json
+C:\Users\mariana.dsantos\source\repos\ConsoleApp1\DataFormato\bin\Debug\netcoreapp3.0\DataFormato.runtimeconfig.json
+C:\Users\mariana.dsantos\source\repos\ConsoleApp1\DataFormato\bin\Debug\netcoreapp3.0\DataFormato.runtimeconfig.dev.json
+C:\Users\mariana.dsantos\source\repos\ConsoleApp1\DataFormato\bin\Debug\netcoreapp3.0\DataFormato.dll
+C:\Users\mariana.dsantos\source\repos\ConsoleApp1\DataFormato\bin\Debug\netcoreapp3.0\DataFormato.pdb
+C:\Users\mariana.dsantos\source\repos\ConsoleApp1\DataFormato\obj\Debug\netcoreapp3.0\DataFormato.csprojAssemblyReference.cache
+C:\Users\mariana.dsantos\source\repos\ConsoleApp1\DataFormato\obj\Debug\netcoreapp3.0\DataFormato.AssemblyInfoInputs.cache
+C:\Users\mariana.dsantos\source\repos\ConsoleApp1\DataFormato\obj\Debug\netcoreapp3.0\DataFormato.AssemblyInfo.cs
+C:\Users\mariana.dsantos\source\repos\ConsoleApp1\DataFormato\obj\Debug\netcoreapp3.0\DataFormato.dll
+C:\Users\mariana.dsantos\source\repos\ConsoleApp1\DataFormato\obj\Debug\netcoreapp3.0\DataFormato.pdb

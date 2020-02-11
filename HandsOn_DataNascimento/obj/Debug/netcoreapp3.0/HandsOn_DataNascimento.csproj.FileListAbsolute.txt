@@ -1,0 +1,10 @@
+C:\Users\mariana.dsantos\source\repos\ConsoleApp1\HandsOn_DataNascimento\bin\Debug\netcoreapp3.0\HandsOn_DataNascimento.exe
+C:\Users\mariana.dsantos\source\repos\ConsoleApp1\HandsOn_DataNascimento\bin\Debug\netcoreapp3.0\HandsOn_DataNascimento.deps.json
+C:\Users\mariana.dsantos\source\repos\ConsoleApp1\HandsOn_DataNascimento\bin\Debug\netcoreapp3.0\HandsOn_DataNascimento.runtimeconfig.json
+C:\Users\mariana.dsantos\source\repos\ConsoleApp1\HandsOn_DataNascimento\bin\Debug\netcoreapp3.0\HandsOn_DataNascimento.runtimeconfig.dev.json
+C:\Users\mariana.dsantos\source\repos\ConsoleApp1\HandsOn_DataNascimento\bin\Debug\netcoreapp3.0\HandsOn_DataNascimento.dll
+C:\Users\mariana.dsantos\source\repos\ConsoleApp1\HandsOn_DataNascimento\bin\Debug\netcoreapp3.0\HandsOn_DataNascimento.pdb
+C:\Users\mariana.dsantos\source\repos\ConsoleApp1\HandsOn_DataNascimento\obj\Debug\netcoreapp3.0\HandsOn_DataNascimento.AssemblyInfoInputs.cache
+C:\Users\mariana.dsantos\source\repos\ConsoleApp1\HandsOn_DataNascimento\obj\Debug\netcoreapp3.0\HandsOn_DataNascimento.AssemblyInfo.cs
+C:\Users\mariana.dsantos\source\repos\ConsoleApp1\HandsOn_DataNascimento\obj\Debug\netcoreapp3.0\HandsOn_DataNascimento.dll
+C:\Users\mariana.dsantos\source\repos\ConsoleApp1\HandsOn_DataNascimento\obj\Debug\netcoreapp3.0\HandsOn_DataNascimento.pdb
